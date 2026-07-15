@@ -2,20 +2,20 @@
 
   <!-- Dynamic Header Banner (Swaps automatically based on GitHub Light/Dark theme) -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huru-devs/.github/main/assets/HURUDEVS-MASK-EFFECT__dark.jpg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huru-devs/.github/main/assets/HURUDEVS-MASK-EFFECT__light.jpg">
-    <img alt="Huru Devs Banner" src="https://raw.githubusercontent.com/huru-devs/.github/main/assets/HURUDEVS-MASK-EFFECT__dark.jpg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hurudevs-Tech/.github/main/assets/HURUDEVS-MASK-EFFECT__dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hurudevs-Tech/.github/main/assets/HURUDEVS-MASK-EFFECT__light.gif">
+    <img alt="Huru Devs Banner" src="https://raw.githubusercontent.com/Hurudevs-Tech/.github/main/assets/HURUDEVS-MASK-EFFECT__dark.gif" width="10%">
   </picture>
 
   <br/>
 
   <!-- Interactive Dynamic Logo -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huru-devs/.github/main/assets/logo_darkmode.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huru-devs/.github/main/assets/logo_lightmode.png">
-    <img alt="Huru Devs Logo" src="https://raw.githubusercontent.com/huru-devs/.github/main/assets/logo_darkmode.png" width="220">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hurudevs-Tech/.github/main/assets/logo_darkmode.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hurudevs-Tech/.github/main/assets/logo_lightmode.png">
+    <img alt="Huru Devs Logo" src="https://raw.githubusercontent.com/Hurudevs-Tech/.github/main/assets/logo_darkmode.png" width="220">
   </picture>
-
+  
   <h3>Elevate Your Digital Presence</h3>
 
   <p align="center">
@@ -98,5 +98,5 @@ Whether you need a bespoke high-fidelity web application, a complete systems ove
 *   **Email:** [hello@hurudevs.tech](mailto:hurudevs@gmail.com)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/huru-devs/.github/main/assets/Brand2.png" width="120" alt="Huru Devs Mark" />
+  <img src="https://raw.githubusercontent.com/Hurudevs-Tech/.github/main/assets/Brand2.png" width="120" alt="Huru Devs Mark" />
 </p>
