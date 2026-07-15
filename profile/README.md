@@ -21,14 +21,14 @@
   <p align="center">
     We craft immersive websites and cutting-edge digital solutions that propel your brand to new heights.
     <br />
-    <a href="https://https://huru.hurudevs.workers.dev/"><strong>Explore Our Plans »</strong></a>
+    <a href="https://huru.hurudevs.workers.dev/"><strong>Explore Our Plans »</strong></a>
     <br />
     <br />
-    <a href="https://https://huru.hurudevs.workers.dev//#works">Our Portfolio</a>
+    <a href="https://huru.hurudevs.workers.dev/works">Our Portfolio</a>
     <span> · </span>
-    <a href="https://https://huru.hurudevs.workers.dev//#solutions">Solutions</a>
+    <a href="https://huru.hurudevs.workers.dev/solutions">Solutions</a>
     <span> · </span>
-    <a href="https://https://huru.hurudevs.workers.dev//#contact">Get in Touch</a>
+    <a href="https://huru.hurudevs.workers.dev/contact">Get in Touch</a>
   </p>
 
   <!-- Badges -->
@@ -45,7 +45,7 @@
 
 At **Huru Devs**, we are a collective of developers and creatives dedicated to pushing the boundaries of the web. We build fast, beautiful, and highly interactive digital experiences that seamlessly blend robust backend systems with fluid, immersive visual interfaces.
 
-*   🌐 **Our HQ:** [Join Us](https://https://huru.hurudevs.workers.dev/)
+*   🌐 **Our HQ:** [Join Us](https://huru.hurudevs.workers.dev/)
 *   🚀 **Our Philosophy:** Clean code, stunning aesthetics, and unmatched user experiences.
 *   🛠 **What we do:** Immersive web development, scalable platform integrations, custom interactive user interfaces, and brand elevation.
 
@@ -94,7 +94,7 @@ Our digital interfaces lean heavily into high-end aesthetics, celebrating seamle
 
 Whether you need a bespoke high-fidelity web application, a complete systems overhaul, or a sleek design framework, we can bring your vision to life.
 
-*   **Request a consultation:** [Explore Our Plans & Industry Solutions](https://https://huru.hurudevs.workers.dev/)
+*   **Request a consultation:** [Explore Our Plans & Industry Solutions](https://huru.hurudevs.workers.dev/)
 *   **Email:** [hello@hurudevs.tech](mailto:hurudevs@gmail.com)
 
 <p align="center">
