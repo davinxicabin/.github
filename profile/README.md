@@ -1,102 +1,300 @@
 <div align="center">
 
-  <!-- Dynamic Header Banner (Swaps automatically based on GitHub Light/Dark theme) -->
+  <!-- Dynamic Header Banner -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hurudevs-Tech/.github/main/assets/HURUDEVS-MASK-EFFECT__dark.gif">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hurudevs-Tech/.github/main/assets/HURUDEVS-MASK-EFFECT__light.gif">
-    <img alt="Huru Devs Banner" src="https://raw.githubusercontent.com/Hurudevs-Tech/.github/main/assets/HURUDEVS-MASK-EFFECT__dark.gif" width="10%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Davinxi-Cabin/.github/main/assets/davinxi-banner-dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Davinxi-Cabin/.github/main/assets/davinxi-banner-light.gif">
+
+    <img 
+      alt="Davinxi Cabin Banner"
+      src="https://raw.githubusercontent.com/Davinxi-Cabin/.github/main/assets/davinxi-banner-dark.gif"
+      width="100%"
+    >
   </picture>
+
 
   <br/>
 
-  <!-- Interactive Dynamic Logo -->
+
+  <!-- Logo -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hurudevs-Tech/.github/main/assets/logo_darkmode.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hurudevs-Tech/.github/main/assets/logo_lightmode.png">
-    <img alt="Huru Devs Logo" src="https://raw.githubusercontent.com/Hurudevs-Tech/.github/main/assets/logo_darkmode.png" width="220">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Davinxi-Cabin/.github/main/assets/logo-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Davinxi-Cabin/.github/main/assets/logo-light.png">
+
+    <img 
+      alt="Davinxi Cabin Logo"
+      src="https://raw.githubusercontent.com/Davinxi-Cabin/.github/main/assets/logo-dark.png"
+      width="220"
+    >
   </picture>
-  
-  <h3>Elevate Your Digital Presence</h3>
+
+
+  <h3>
+    Where Curiosity Becomes Creation
+  </h3>
+
 
   <p align="center">
-    We craft immersive websites and cutting-edge digital solutions that propel your brand to new heights.
-    <br />
-    <a href="https://huru.hurudevs.workers.dev/"><strong>Explore Our Plans »</strong></a>
-    <br />
-    <br />
-    <a href="https://huru.hurudevs.workers.dev/works">Our Portfolio</a>
+
+    We are building an experiential learning ecosystem where young minds
+    explore coding, chess, robotics, AI, art, music, and creative technology.
+
+    <br/>
+
+    <a href="https://davinxicabin.me">
+      <strong>Explore Davinxi Cabin »</strong>
+    </a>
+
+    <br/><br/>
+
+    <a href="https://davinxicabin.me/programs">
+      Programs
+    </a>
+
     <span> · </span>
-    <a href="https://huru.hurudevs.workers.dev/solutions">Solutions</a>
+
+    <a href="https://davinxicabin.me/sandbox">
+      Innovation Sandbox
+    </a>
+
     <span> · </span>
-    <a href="https://huru.hurudevs.workers.dev/contact">Get in Touch</a>
+
+    <a href="https://davinxicabin.me/contact">
+      Join The Cabin
+    </a>
+
   </p>
 
-  <!-- Badges -->
+
+  <!-- Status Badges -->
+
   <p align="center">
-    <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20Creative%20Tech-FFE473?style=for-the-badge&labelColor=2B225A" alt="Focus">
-    <img src="https://img.shields.io/badge/Status-Open%20To%20Work-4caf50?style=for-the-badge&labelColor=1a1a1a" alt="Status">
+
+    <img 
+      src="https://img.shields.io/badge/Mission-Learning%20Through%20Creation-FFE473?style=for-the-badge&labelColor=2B225A"
+    />
+
+    <img 
+      src="https://img.shields.io/badge/Focus-STEM%20%26%20Creative%20Skills-4caf50?style=for-the-badge&labelColor=1a1a1a"
+    />
+
   </p>
+
 
 </div>
 
----
-
-## ⚡ Who We Are
-
-At **Huru Devs**, we are a collective of developers and creatives dedicated to pushing the boundaries of the web. We build fast, beautiful, and highly interactive digital experiences that seamlessly blend robust backend systems with fluid, immersive visual interfaces.
-
-*   🌐 **Our HQ:** [Join Us](https://huru.hurudevs.workers.dev/)
-*   🚀 **Our Philosophy:** Clean code, stunning aesthetics, and unmatched user experiences.
-*   🛠 **What we do:** Immersive web development, scalable platform integrations, custom interactive user interfaces, and brand elevation.
 
 ---
 
-## 🛠️ Our Tech Stack & Ecosystem
 
-We build robust production applications leveraging modern, reactive technologies:
+## 🌱 Who We Are
+
+
+**Davinxi Cabin** is a Kenyan co-curricular learning ecosystem designed to help children and teenagers discover their potential through hands-on exploration.
+
+
+We believe the future belongs to creators, problem-solvers, and innovators — not just people who memorize information.
+
+
+Our mission is to create a safe digital and physical playground where young learners can experiment with:
+
+- 💻 Coding & Software Development
+- 🤖 Artificial Intelligence & Robotics
+- ♟ Chess & Strategic Thinking
+- 🎨 Digital Art & Design
+- 🎵 Music Production
+- 🎬 Video Creation
+- 🚀 Entrepreneurship & Innovation
+
+
+* 🌍 **Our Home:** [Davinxi Cabin](https://davinxicabin.me)
+
+* 🧠 **Our Philosophy:** Learn. Build. Experiment. Create.
+
+* 🔬 **Our Approach:** Project-based learning powered by curiosity.
+
+
+
+---
+
+
+## 🛠️ Our Technology Ecosystem
+
+
+Behind the learning experience, we build modern educational technology platforms:
+
 
 <table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://skillicons.dev/icons?i=nextjs,react" height="40" alt="Frontend" />
-      <br /><strong>Frontend & Frameworks</strong>
-      <p><small>Next.js, React, Tailwind CSS</small></p>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://skillicons.dev/icons?i=threejs,html,css" height="40" alt="Creative Tech" />
-      <br /><strong>Creative Web</strong>
-      <p><small>Three.js, WebGL, Interactive Canvas</small></p>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://skillicons.dev/icons?i=supabase,postgres,prisma" height="40" alt="Backend" />
-      <br /><strong>Backend & Database</strong>
-      <p><small>Supabase, PostgreSQL, Prisma ORM</small></p>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://skillicons.dev/icons?i=ts,js,nodejs" height="40" alt="Languages" />
-      <br /><strong>Languages & Systems</strong>
-      <p><small>TypeScript, Node.js, Secure APIs</small></p>
-    </td>
-  </tr>
+
+<tr>
+
+<td align="center" width="25%">
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript" height="40">
+
+<br/>
+
+<strong>Learning Platform</strong>
+
+<p>
+<small>
+Next.js, React, TypeScript
+</small>
+</p>
+
+</td>
+
+
+<td align="center" width="25%">
+
+<img src="https://skillicons.dev/icons?i=tailwind,threejs" height="40">
+
+<br/>
+
+<strong>Interactive Experiences</strong>
+
+<p>
+<small>
+Creative UI, Animation, WebGL
+</small>
+</p>
+
+</td>
+
+
+<td align="center" width="25%">
+
+<img src="https://skillicons.dev/icons?i=postgres,supabase,prisma" height="40">
+
+<br/>
+
+<strong>Platform Infrastructure</strong>
+
+<p>
+<small>
+Databases, APIs, Authentication
+</small>
+</p>
+
+</td>
+
+
+<td align="center" width="25%">
+
+<img src="https://skillicons.dev/icons?i=nodejs,python" height="40">
+
+<br/>
+
+<strong>Future Technologies</strong>
+
+<p>
+<small>
+AI, Automation, Intelligent Systems
+</small>
+</p>
+
+</td>
+
+
+</tr>
+
 </table>
 
----
 
-## 🎨 Design Theme & Brand Identity
-
-Our digital interfaces lean heavily into high-end aesthetics, celebrating seamless navigation, interactive depth, and high usability:
-*   **Default Preferences:** Sleek, modern dark-themed user interfaces that let creative assets stand out.
-*   **Visual Direction:** High contrast, geometric styling, vibrant accents, and smooth physics-driven motion.
 
 ---
 
-## 📫 Let's Collaborate!
 
-Whether you need a bespoke high-fidelity web application, a complete systems overhaul, or a sleek design framework, we can bring your vision to life.
+## 🎨 Our Learning Philosophy
 
-*   **Request a consultation:** [Explore Our Plans & Industry Solutions](https://huru.hurudevs.workers.dev/)
-*   **Email:** [hello@hurudevs.tech](mailto:hurudevs@gmail.com)
+
+Davinxi Cabin combines technology, creativity, and play to create meaningful learning experiences.
+
+
+Our design principles:
+
+
+* 🧩 **Learning Through Challenges**
+
+  Every problem is a puzzle waiting to be solved.
+
+
+* 🛠 **Build Before Memorize**
+
+  Learners understand concepts by creating real projects.
+
+
+* 🌍 **Future-Ready Skills**
+
+  We prepare young people for a rapidly changing digital world.
+
+
+* 🎨 **Logic Meets Creativity**
+
+  Technology is not only engineering — it is also imagination.
+
+
+
+---
+
+
+## 🚀 Projects & Experiments
+
+
+Our ecosystem includes:
+
+
+| Project | Description |
+|---|---|
+| 🏕 Davinxi Platform | Digital learning environment |
+| 🧪 Innovation Sandbox | Creative experiments and challenges |
+| ♟ Chess Academy | Strategic thinking development |
+| 🤖 AI Lab | Exploring artificial intelligence |
+| 🎨 Creative Studio | Art, design and media projects |
+
+
+
+---
+
+
+## 🤝 Collaborate With Us
+
+
+We are looking for:
+
+
+- 👩‍🏫 Educators who love teaching
+- 👨‍💻 Developers building education technology
+- 🎨 Designers creating learning experiences
+- 🏫 Schools interested in innovation programs
+- 🌱 Partners investing in the next generation
+
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hurudevs-Tech/.github/main/assets/Brand2.png" width="120" alt="Huru Devs Mark" />
+
+<a href="https://davinxicabin.me">
+<strong>Build The Future With Us →</strong>
+</a>
+
 </p>
+
+
+
+<br/>
+
+
+<div align="center">
+
+<img 
+src="https://raw.githubusercontent.com/Davinxi-Cabin/.github/main/assets/brand-mark.png"
+width="120"
+/>
+
+
+<br/>
+
+**Davinxi Cabin**
+
+*"Every child is a creator waiting to be discovered."*
+
+</div>
